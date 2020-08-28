@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/volare/static/js/main.4c55b330.chunk.js",
+    "main.js.map": "/volare/static/js/main.4c55b330.chunk.js.map",
+    "runtime-main.js": "/volare/static/js/runtime-main.4bf757fb.js",
+    "runtime-main.js.map": "/volare/static/js/runtime-main.4bf757fb.js.map",
+    "static/js/2.21331195.chunk.js": "/volare/static/js/2.21331195.chunk.js",
+    "static/js/2.21331195.chunk.js.map": "/volare/static/js/2.21331195.chunk.js.map",
+    "index.html": "/volare/index.html",
+    "precache-manifest.7d76745c68c7f175a076a251d8d2b885.js": "/volare/precache-manifest.7d76745c68c7f175a076a251d8d2b885.js",
+    "service-worker.js": "/volare/service-worker.js",
+    "static/js/2.21331195.chunk.js.LICENSE.txt": "/volare/static/js/2.21331195.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bf757fb.js",
+    "static/js/2.21331195.chunk.js",
+    "static/js/main.4c55b330.chunk.js"
+  ]
+}
